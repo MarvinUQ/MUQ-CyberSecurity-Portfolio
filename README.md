@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Portfolio: SOC Operations & GRC (Portafolio de Ciberseguridad: Operaciones SOC y GRC)
 
-Hello, I'm Marvin, Welcome to my portfolio! I am a career changer with 10+ years of professional experience in technical drafting and design experience bridging it with modern **SOC Analysis, Threat Detection, and Governance (GRC)**. 
+Hello, I'm Marvin, welcome to my portfolio! I am a career changer with 10+ years of professional experience in technical drafting and design experience bridging it with modern **SOC Analysis, Threat Detection, and Governance (GRC)**. 
 
 My background allows me to treat cybersecurity infrastructure as I would with physical architecture: analyzing complex layouts, identifying structural vulnerabilities, ensuring regulatory compliance, and producing executive-ready technical documentation.
 
