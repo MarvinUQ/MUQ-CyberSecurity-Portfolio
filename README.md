@@ -6,6 +6,6 @@ My background allows me to treat cybersecurity infrastructure as I would with ph
 
 (Bienvendido a mi portafolio! Estoy en una transición de mi carrera con mas de 10 años de experiencia en dibujo técnico y diseño para unirla con **Análisis del SOC, Detección de Amenazas y Gobernanza (GRC)**.
 
-My conocimiento previo me permite tratar la ciberseguridad de la forma que lo haria con la arquitectura y la construcción: análisis de planos complejos, identificación de vulnerabilidades estructurales, asergurar el complimiento de codigos y normas, y producir documentación técnica lista para su ejecución.)
+Mi conocimiento previo me permite tratar la ciberseguridad de la forma que lo haria con la arquitectura y la construcción: análisis de planos complejos, identificación de vulnerabilidades estructurales, asergurar el complimiento de codigos y normas, y producir documentación técnica lista para su ejecución.)
 
 ---
