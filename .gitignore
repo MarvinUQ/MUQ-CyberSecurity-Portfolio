@@ -1,18 +1,63 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# ====================================================================
+# VIRUALIZATION & OPERATING SYSTEMS
+# ====================================================================
+# Block massive virtual disks and state files from virt-manager/QEMU
+*.qcow2
+*.img
+*.vhd
+*.vhdx
+*.xml
+*.state
 
-# Other files and folders
-.settings/
+# Block OS clutter and temporary files
+.DS_Store
+Thumbs.db
+~$*.docx
+~$*.xlsx
+~$*.pptx
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# ====================================================================
+# CYBERSECURITY LAB EXCLUSIONS
+# ====================================================================
+# Block raw binary artifacts and full forensic packet captures
+*.pcap
+*.pcapng
+*.evtx
+*.log
+*.audit
+*.iso
+*.vmdk
+*.ova
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Block system memory dumps and master file tables
+*.dmp
+*.sys
+*.mft
+Memory.dmp
+
+# Block vulnerable database dumps from DVWA
+*.sql
+*.sqlite
+
+# ====================================================================
+# SECRETS & CREDENTIALS (NEVER COMMIT)
+# ====================================================================
+.env
+.env.*
+*.pem
+*.key
+*.pub
+*.cert
+secrets.json
+credentials.ini
+
+# ====================================================================
+# IDE & AUTOMATION SCRIPTING
+# ====================================================================
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
