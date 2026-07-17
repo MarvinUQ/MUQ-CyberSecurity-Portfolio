@@ -9,3 +9,10 @@ My background allows me to treat cybersecurity infrastructure as I would with ph
 Mi conocimiento previo me permite tratar la ciberseguridad de la forma que lo haria con la arquitectura y la construcción: análisis de planos complejos, identificación de vulnerabilidades estructurales, asergurar el complimiento de codigos y normas, y producir documentación técnica lista para su ejecución.)
 
 ---
+
+## 🚀 Career Strategy & Vision (Visión y Estrategia de Carrera)
+Leveraging a deep foundation in technical blueprints and system experience to secure digital environments. My first objective is a **SOC Analyst / Triage** position to master real-time security operations. Concurrently, I am applying my professional compliance and drafting skills toward long-term mastery in **Governance, Risk, and Compliance (GRC)** frameworks.
+
+(Fundamentando en las bases del conocimiento técnico y experiencia en sistemas para dar seguridad en ambientes digitales. Mi primer objetivo es ingresar en el campo de **Análisis SOC** para poder dominar el conocimiento de operaciones de seguridad en tiempo real. Al mismo tiempo, aplico mis habilidades profesionales en diseño y cumplimiento de normas en pos de generar el conocimiento a largo plazo para usar en **Governanza, Riesgo y Cumplimiento**)
+
+---
