@@ -16,3 +16,11 @@ Leveraging a deep foundation in technical blueprints and system experience to se
 (Fundamentando en las bases del conocimiento técnico y experiencia en sistemas para dar seguridad en ambientes digitales. Mi primer objetivo es ingresar en el campo de **Análisis SOC** para poder dominar el conocimiento de operaciones de seguridad en tiempo real. Al mismo tiempo, aplico mis habilidades profesionales en diseño y cumplimiento de normas en pos de generar el conocimiento a largo plazo para usar en **Governanza, Riesgo y Cumplimiento**)
 
 ---
+
+## 📜 Certifications & Professional Training
+*   **ISC² Certified in Cybersecurity (CC)** — *Candidate (Exam Preparation in Progress)*
+*   **Cisco Junior Cybersecurity Analyst Path** — *In Progress (Currently mastering Endpoint Security)*
+*   **HarvardX CS50:** Introduction to Cybersecurity — *Auditor Track Completed*
+*   **HarvardX CS50x:** Introduction to Computer Science — *Core Fundamentals Completed*
+
+---
