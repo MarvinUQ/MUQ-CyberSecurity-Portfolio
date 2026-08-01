@@ -25,7 +25,7 @@ Leveraging a deep foundation in technical blueprints and system experience to se
 
 ---
 
-### [**Home-Lab**] (https://github.com/MarvinUQ/Home-Lab)
+### [**Home-Lab**](https://github.com/MarvinUQ/Home-Lab)
 
 
 <img src="images/Topo-Port.png" alt="Topology" width="70%">
