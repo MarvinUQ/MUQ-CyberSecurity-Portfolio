@@ -28,6 +28,6 @@ Leveraging a deep foundation in technical blueprints and system experience to se
 ### **Home-Lab**
 
 
-![Topology] (images/Topo-Port.png)
+<img src="images/Topo-Port.png" alt="Topology" width="70%">
 
 ---
