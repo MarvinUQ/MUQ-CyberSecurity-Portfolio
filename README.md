@@ -31,4 +31,4 @@ Leveraging a deep foundation in technical blueprints and system experience to se
 
 ---
 
-### [Pentesting/SOC Analysis](https://github.com/MarvinUQ/Pentesting-SOC-analysis-)
+### [Pentesting/SOC Analysis](https://github.com/MarvinUQ/Projects)
