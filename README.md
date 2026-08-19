@@ -31,4 +31,10 @@ Leveraging a deep foundation in technical blueprints and system experience to se
 
 ---
 
-### [Pentesting/SOC Analysis](https://github.com/MarvinUQ/Projects)
+### [Projects](https://github.com/MarvinUQ/Projects)
+
+### Resumes (Resumenes):
+
+- **HomeLab Simulated Logistic Company.**
+
+  This is a project 
