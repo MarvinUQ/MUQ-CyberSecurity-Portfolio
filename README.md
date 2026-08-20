@@ -43,7 +43,7 @@ Leveraging a deep foundation in technical blueprints and system experience to se
 
 - ### **[Access Management](https://github.com/MarvinUQ/Projects/blob/main/IAM/README.md)**
 
-- ### **[IT Operation](https://github.com/MarvinUQ/Projects/blob/main/IT%20Operations/README.md)**
+- ### **[IT Operations](https://github.com/MarvinUQ/Projects/blob/main/IT%20Operations/README.md)**
 
 - ### **[Pentesting](https://github.com/MarvinUQ/Projects/blob/main/Pentesting/README.md)**
 
