@@ -35,6 +35,12 @@ Leveraging a deep foundation in technical blueprints and system experience to se
 
 ### Resumes (Resumenes):
 
+[IAM]=
+[ITO]=
+[PEN]=
+[SOC]=
+[GRC]=
+
 - **HomeLab Simulated Logistic Company.**
 
   This is a project 
