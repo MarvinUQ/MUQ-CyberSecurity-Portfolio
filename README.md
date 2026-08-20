@@ -35,7 +35,7 @@ Leveraging a deep foundation in technical blueprints and system experience to se
 
 ### Resumes (Resumenes):
 
-- **HomeLab Simulated Logistic Company.**
+- **[HomeLab Simulated Logistic Company.](https://github.com/MarvinUQ/Projects/blob/main/Resumed%20Projects%20All%20Domains%20Joined.md)**
 
 ---
 
