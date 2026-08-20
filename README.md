@@ -33,13 +33,20 @@ Leveraging a deep foundation in technical blueprints and system experience to se
 
 ### [Projects](https://github.com/MarvinUQ/Projects)
 
-### Resumes (Resumenes):
+- Since a full project will be the sum of it's different domain parts this flag will be used to identify or categorize each on every part of the resume. 
 
 [IAM]=
+
 [ITO]=
+
 [PEN]=
+
 [SOC]=
+
 [GRC]=
+
+
+### Resumes (Resumenes):
 
 - **HomeLab Simulated Logistic Company.**
 
