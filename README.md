@@ -33,21 +33,20 @@ Leveraging a deep foundation in technical blueprints and system experience to se
 
 ### [Projects](https://github.com/MarvinUQ/Projects)
 
-- Since a full project will be the sum of it's different domain parts this flag will be used to identify or categorize each on every part of the resume. 
-
-[IAM]=
-
-[ITO]=
-
-[PEN]=
-
-[SOC]=
-
-[GRC]=
-
-
 ### Resumes (Resumenes):
 
 - **HomeLab Simulated Logistic Company.**
 
-  This is a project 
+---
+
+### Specific by Domain:
+
+- ### **[Access Management]()**
+
+- ### **[IT Operation]()**
+
+- ### **[Pentesting]()**
+
+- ### **[SOC Analysis]()**
+
+- ### **[GRC]()**
