@@ -41,12 +41,12 @@ Leveraging a deep foundation in technical blueprints and system experience to se
 
 ### Specific by Domain:
 
-- ### **[Access Management]()**
+- ### **[Access Management](https://github.com/MarvinUQ/Projects/blob/main/IAM/README.md)**
 
-- ### **[IT Operation]()**
+- ### **[IT Operation](https://github.com/MarvinUQ/Projects/blob/main/IT%20Operations/README.md)**
 
-- ### **[Pentesting]()**
+- ### **[Pentesting](https://github.com/MarvinUQ/Projects/blob/main/Pentesting/README.md)**
 
-- ### **[SOC Analysis]()**
+- ### **[SOC Analysis](https://github.com/MarvinUQ/Projects/blob/main/SOC%20Analysis/README.md)**
 
-- ### **[GRC]()**
+- ### **[GRC](https://github.com/MarvinUQ/Projects/blob/main/GRC/README.md)**
