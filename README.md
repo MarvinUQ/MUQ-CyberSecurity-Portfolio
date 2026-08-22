@@ -35,7 +35,7 @@ Leveraging a deep foundation in technical blueprints and system experience to se
 
 ### Case Studies (Resumenes):
 
-- **[HomeLab Simulated Logistic Company.](https://github.com/MarvinUQ/Projects/blob/main/Resumed%20Projects%20All%20Domains%20Joined.md)**
+- **[HomeLab Simulated Logistic Company.](https://github.com/MarvinUQ/Projects/blob/main/Case%20Studies.md#--homelab-simulated-logistic-company-hlslc)**
 
 ---
 
